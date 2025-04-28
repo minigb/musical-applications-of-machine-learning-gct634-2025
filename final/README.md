@@ -4,7 +4,7 @@
 ### 1. Team Building
 - Find classmates to form a final project team. One team can include up to 3 team members.
 - In case you cannot find teammates, TAs will help the matching
-- Put your names and team project title at [the list of final project teams](https://docs.google.com/spreadsheets/d/1dlFmUuHvBvjgAdVdkZqozKyRz9khK9PNGu0u-uo_qh8/edit?usp=sharing)
+- Put your names and team project title at [the list of final project teams](https://docs.google.com/spreadsheets/d/19LUQkDk0NGvwfq3jszzL6Vg8_5jC_537bgI4i0ycfUw/edit?usp=sharing)
 
 ### 2. Topic Selection
 You can select any topic within the scope of music and audio research. Possible topics include:
